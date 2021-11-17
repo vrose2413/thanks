@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Copyright on Get Update News</title>
+    <link>https://vrose2413.github.io/thanks/about/copyright.html</link>
+    <description>Recent content in Copyright on Get Update News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, [Get Update](https://vrose2413.github.io/thanks/) All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <sy:updatePeriod>yearly</sy:updatePeriod>
+    
+        <atom:link href="https://vrose2413.github.io/thanks/about/copyright/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+
+    
+  </channel>
+</rss>
